@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔹 **🔭 I'm currently studying Computer Engineering.**
+-  **🔭 I'm currently studying Computer Engineering.**
 
-- 🔹 **🌱 I am interested in AI-integrated applications and blockchain.**
+-  **🌱 I am interested in AI-integrated applications and blockchain.**
 
-- 🔹 💼 Freelance Work: [https://www.fiverr.com/s/NNV6lRa](https://www.fiverr.com/s/NNV6lRa)
+-  💼 Freelance Work: [https://www.fiverr.com/s/NNV6lRa](https://www.fiverr.com/s/NNV6lRa)
 
-- 🔹 📫 Contact Me: **m.erenguner@gmail.com**
+-  📫 Contact Me: **m.erenguner@gmail.com**
 
 
 <p align="left">
