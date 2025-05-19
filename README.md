@@ -3,9 +3,9 @@
 
 - 🔹 **🔭 I'm currently studying Computer Engineering.**
 
-- 🔹 💼 Freelance Work: [https://www.fiverr.com/s/NNV6lRa](https://www.fiverr.com/s/NNV6lRa)
-
 - 🔹 **🌱 I am interested in AI-integrated applications and blockchain.**
+
+- 🔹 💼 Freelance Work: [https://www.fiverr.com/s/NNV6lRa](https://www.fiverr.com/s/NNV6lRa)
 
 - 🔹 📫 Contact Me: **m.erenguner@gmail.com**
 
