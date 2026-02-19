@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">Software Engineer</h3>
 
--  **🔭 I'm Computer Engineer.**
-
 -  **🌱 I am interested in AI-integrated web and mobil applications .**
 
 -  💼 Work: https://guner.tech/
